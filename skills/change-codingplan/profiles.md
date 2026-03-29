@@ -8,17 +8,17 @@
   "profiles": [
     {
       "name": "MiniMax-CodingPlan",
-      "file": "settings-minimax.json",
+      "file": "minimax.json",
       "description": "使用 MiniMax-CodingPlan"
     },
     {
       "name": "质谱-CodingPlan",
-      "file": "settings-zai.json",
+      "file": "zai.json",
       "description": "使用 质谱-CodingPlan"
     },
     {
       "name": "Ali-CodingPlan",
-      "file": "settings-ali.json",
+      "file": "ali.json",
       "description": "使用 Ali-CodingPlan"
     }
   ]
